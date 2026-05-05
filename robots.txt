@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jumanullah5-ship-it.github.io/juman-ai-web/sitemap.xml
